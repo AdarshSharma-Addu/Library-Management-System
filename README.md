@@ -3,7 +3,8 @@ Purpose:
 
 The software is for the students those are willing to get library books for their reference.
 It provides following facilities to:
-```Admin: 
+```
+Admin: 
 	1 Can enter details related to a particular book. 
 	2 Can provide membership to students. 
 	3 Can read and write information about any students. 
