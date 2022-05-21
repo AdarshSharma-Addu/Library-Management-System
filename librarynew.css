@@ -1,0 +1,38 @@
+body
+{
+	background-color: black;
+	font-family: sans-serif;
+	background-width: fixed;
+}
+.bg{
+	background:url('images/1.jpg');  width:100%;height:100vh;
+}
+.bg-blur{
+	background:url('images/1blur.jpg');background-size:cover;  width:100%;height:100vh;
+}
+.bg-indexpage{
+	background:url('images/2.jpg'); background-size:cover;width:100%;height:100%;
+}
+.img-form{
+	background:url('images/form.jpg');background-size:cover;
+}
+.form-container{
+	background-color:#00cc99;
+	opacity:1;
+	margin-top:10vh;
+	box-shadow:0px 0px 30px 10px black;
+	border: 1px solid black;
+	padding:50px;
+	border-radius:30px;
+}
+.avatar{
+	width: 80px;
+	height:80px;
+	position:absolute;
+	top:18%;
+	left:36%;
+}
+.nounderline{
+	text-decoration: none !important;
+	color:black !important;
+}
